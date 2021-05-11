@@ -1,0 +1,7 @@
+#message-container
+{
+    position: absolute;
+    bottom: 3%;
+    right: 50%;
+    transform: translate(50%, 50%)
+}
